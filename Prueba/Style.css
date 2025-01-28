@@ -1,0 +1,38 @@
+.supbut {
+    padding: 1px;
+    margin: 1px;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    border: solid white;
+    border-radius: 15%;
+}
+
+body {
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+    Color: white;
+    background-color: rgb(126, 17, 26);
+    width: 1281px;
+    text-align: center;
+    padding: 35px;
+    padding-bottom: 35px;
+    font-family: Arial;
+    font-size: 60px;
+    margin: 10px 0px 20px -10px;
+}
+
+img {
+    height: 250px;
+    width: 250px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.haress {
+    height: 50px;
+    width: 50px;
+}
